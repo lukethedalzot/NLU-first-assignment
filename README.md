@@ -6,3 +6,5 @@ The notebook also includes a description of all the five asked functions above e
 Only `spacy` (and it's english model) was used as additional library
 - run `pip install spacy` for spacy itself
 - run `python -m spacy download en_core_web_sm` for the english model
+
+Luca Dal Zotto (MAT. 223714)
